@@ -623,10 +623,4 @@ class ConstellationApp:
 # ─────────────────────────────────────────────
 
 if __name__ == "__main__":
-    print("=" * 52)
-    print("  Constellation Diagram Simulator")
-    print("=" * 52)
-    print("  تثبيت المكتبات:")
-    print("    pip install numpy matplotlib scipy")
-    print()
     ConstellationApp()
