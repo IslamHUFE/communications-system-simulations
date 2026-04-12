@@ -28,6 +28,4 @@
 
 ## Contributors
 
-<a href="https://github.com/USERNAME">
-  <img src="https://github.com/USERNAME.png" width="100px" style="border-radius: 50%;">
-</a>
+* <img src="https://github.com/USERNAME.png" width="100" style="border-radius: 50%;">
