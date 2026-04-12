@@ -1,1 +1,17 @@
-![](/run/user/1000/doc/480a4ef1/668579272_1253917053521170_7714739793497156582_n.jpg)
+# This is my simulation library for SDR and physics
+
+
+
+## ggb files (GeoGebra)
+
+* to open this files you need to install and GeoGebra.
+
+* you will find a visualisation of a mathematical equations used in communocation systems
+
+
+
+## Python simulations
+
+* you need python3 installed on your computer to run these files
+
+* it would be so cool if you run it from ur terminal
