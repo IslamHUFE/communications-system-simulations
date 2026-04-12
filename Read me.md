@@ -16,10 +16,10 @@
 
 ## Simulations avilable
 
-* [constellation diagram](./python simulations/constellation.py)
+* [constellation diagram](./python_simulations/constellation.py)
 
 * [Beam forming](./GeoGebra/Beamforming.ggb)
 
-* [normal distripution](./GeoGebra/normal distripution.ggb)
+* [normal distripution](./GeoGebra/normal_distripution.ggb)
 
-* [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc, sinc^2 and zero crossing BW.ggb)
+* [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc,_sinc^2_and_zero_crossing_BW.ggb)
