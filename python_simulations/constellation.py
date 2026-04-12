@@ -213,6 +213,7 @@ class ConstellationApp:
         self.radio.on_clicked(self._on_mod)
 
         # ── Sliders ───────────────────────────────────────────────
+        ####################################################Amplitude##########################################
         self.ax_amp = self.fig.add_subplot(left[1])
         self.sl_amp = Slider(
             self.ax_amp,
@@ -227,6 +228,8 @@ class ConstellationApp:
         self._style_slider(self.sl_amp)
         self.sl_amp.on_changed(self._on_change)
 
+        #####################################################noise##########################################
+
         self.ax_noise = self.fig.add_subplot(left[2])
         self.sl_noise = Slider(
             self.ax_noise,
@@ -240,7 +243,7 @@ class ConstellationApp:
         )
         self._style_slider(self.sl_noise)
         self.sl_noise.on_changed(self._on_change)
-
+        #####################################################samples##########################################
         self.ax_samp = self.fig.add_subplot(left[3])
         self.sl_samp = Slider(
             self.ax_samp,
