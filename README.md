@@ -23,3 +23,11 @@
 * [normal distripution](./GeoGebra/normal_distripution.ggb)
 
 * [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc,_sinc^2_and_zero_crossing_BW.ggb)
+
+
+
+## Contributors
+
+<a href="https://github.com/USERNAME">
+  <img src="https://github.com/USERNAME.png" width="100px" style="border-radius: 50%;">
+</a>
