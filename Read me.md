@@ -1,4 +1,6 @@
-# This is my simulation library for SDR and physics
+# This is an open source matimatical and physical representation and simulations library for wirless , wired and SDR comunications and networks
+
+## 
 
 ## ggb files (GeoGebra)
 
@@ -11,3 +13,13 @@
 * you need python3 installed on your computer to run these files
 
 * it would be so cool if you run it from ur terminal
+
+## Simulations avilable
+
+* [constellation diagram](./python simulations/constellation.py)
+
+* [Beam forming](./GeoGebra/Beamforming.ggb)
+
+* [normal distripution](./GeoGebra/normal distripution.ggb)
+
+* [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc, sinc^2 and zero crossing BW.ggb)
