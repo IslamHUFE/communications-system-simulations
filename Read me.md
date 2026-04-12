@@ -1,14 +1,10 @@
 # This is my simulation library for SDR and physics
 
-
-
 ## ggb files (GeoGebra)
 
-* to open this files you need to install and GeoGebra.
+* to open this files you need to install GeoGebra.
 
 * you will find a visualisation of a mathematical equations used in communocation systems
-
-
 
 ## Python simulations
 
