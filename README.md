@@ -1,7 +1,5 @@
 # This is an open source matimatical and physical representation and simulations library for wirless , wired and SDR comunications and networks
 
-
-
 ## ggb files (GeoGebra)
 
 * to open this files you need to install GeoGebra.
@@ -13,8 +11,6 @@
 * you need python3 installed on your computer to run these files
 
 * it would be so cool if you run it from ur terminal
-  
-  
 
 ## Simulations avilable
 
@@ -30,6 +26,18 @@
 
 * [EM wave parameters](./python_simulations/EM_wave_parameters.py)
 
+# How to contribute?
+
+Contact IslamHUFE 
+
+<a href="https://github.com/IslamHUFE">
+  <img src="https://github.com/IslamHUFE.png" width="50" style="border-radius: 50%;" alt="إسلام طارق">
+</a>
+
 ## Contributors
 
-<a href="https://github.com/IslamHUFE"><img src="https://github.com/IslamHUFE.png" width="100px" style="border-radius: 50%;"></a><a href="https://github.com/ahmed-heshima"><img src="https://github.com/ahmed-heshima.png" width="100px" style="border-radius: 50%;"></a>
+<p align="center">
+  <a href="https://github.com/IslamHUFE"><img src="https://github.com/IslamHUFE.png" width="100" style="border-radius: 50%;" alt="إسلام طارق"></a>
+  <a href="https://github.com/ahmed-heshima"><img src="https://github.com/ahmed-heshima.png" width="100" style="border-radius: 50%;"alt="أحمد هشام"></a>
+  <!-- <a href="https://github.com/user3"><img src="https://github.com/user3.png" width="60" style="border-radius: 50%;"></a> -->
+</p>
