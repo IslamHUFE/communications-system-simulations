@@ -1,6 +1,6 @@
 # This is an open source matimatical and physical representation and simulations library for wirless , wired and SDR comunications and networks
 
-## 
+
 
 ## ggb files (GeoGebra)
 
@@ -13,6 +13,8 @@
 * you need python3 installed on your computer to run these files
 
 * it would be so cool if you run it from ur terminal
+  
+  
 
 ## Simulations avilable
 
@@ -23,6 +25,10 @@
 * [normal distripution](./GeoGebra/normal_distripution.ggb)
 
 * [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc,_sinc^2_and_zero_crossing_BW.ggb)
+
+## In progress
+
+* [EM wave parameters](./python_simulations/EM_wave_parameters.py)
 
 ## Contributors
 
