@@ -26,9 +26,4 @@
 
 ## Contributors
 
-<a href="https://github.com/IslamHUFE">
-  <img src="https://github.com/IslamHUFE.png" width="100px" style="border-radius: 50%;">
-</a>
-<a href="https://github.com/ahmed-heshima">
-  <img src="https://github.com/ahmed-heshima.png" width="100px" style="border-radius: 50%;">
-</a>
+<a href="https://github.com/IslamHUFE"><img src="https://github.com/IslamHUFE.png" width="100px" style="border-radius: 50%;"></a><a href="https://github.com/ahmed-heshima"><img src="https://github.com/ahmed-heshima.png" width="100px" style="border-radius: 50%;"></a>
