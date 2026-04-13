@@ -24,8 +24,6 @@
 
 * [sinc, sinc^2 and zero crossing BW](./GeoGebra/sinc,_sinc^2_and_zero_crossing_BW.ggb)
 
-
-
 ## Contributors
 
 <a href="https://github.com/IslamHUFE">
