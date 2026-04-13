@@ -25,6 +25,7 @@
 ## In progress
 
 * [EM wave parameters](./python_simulations/EM_wave_parameters.py)
+* converting GeoGebra files to Desmos to take advantage of it's capabilities and online availability
 
 # How to contribute?
 
