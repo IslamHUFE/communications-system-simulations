@@ -45,6 +45,4 @@ Contact IslamHUFE
 <a href="https://github.com/IbrahimMohsen357"><img src="https://github.com/IbrahimMohsen357.png" width="100" style="border-radius: 50%;"alt="إبراهيم عبد المحسن"></a>
 <a href="https://github.com/AbdelrahmanAbdelfatah-1"><img src="https://github.com/AbdelrahmanAbdelfatah-1.png" width="100" style="border-radius: 50%;"alt="عبد الرحمن عبد الفتاح"></a>
 
-<!-- <a href="https://github.com/user3"><img src="https://github.com/user3.png" width="100" style="border-radius: 50%;"alt="أحمد هشام"></a> -->
-
 </p>
