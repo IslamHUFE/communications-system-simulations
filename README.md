@@ -27,6 +27,20 @@
 * [EM wave parameters](./python_simulations/EM_wave_parameters.py)
 * converting GeoGebra files to Desmos to take advantage of it's capabilities and online availability
 
+## Contributors
+
+<p align="center">
+  <a href="https://github.com/IslamHUFE">
+    <img src="https://github.com/IslamHUFE.png" width="70" style="border-radius: 50%;" alt="Islam Tarek"><br>
+    <sub><b>Islam Tarek</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Abdallah-Qusit">
+    <img src="https://github.com/Abdallah-Qusit.png" width="70" style="border-radius: 50%;" alt="Abdallah Qusit"><br>
+    <sub><b>Abdallah Qusit</b></sub>
+  </a>
+</p>
+
 # How to contribute?
 
 Contact IslamHUFE 
