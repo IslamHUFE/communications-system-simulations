@@ -29,17 +29,22 @@
 
 ## Contributors
 
-<p align="center">
-  <a href="https://github.com/IslamHUFE">
-    <img src="https://github.com/IslamHUFE.png" width="70" style="border-radius: 50%;" alt="Islam Tarek"><br>
-    <sub><b>Islam Tarek</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Abdallah-Qusit">
-    <img src="https://github.com/Abdallah-Qusit.png" width="70" style="border-radius: 50%;" alt="Abdallah Qusit"><br>
-    <sub><b>Abdallah Qusit</b></sub>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/IslamHUFE">
+        <img src="https://github.com/IslamHUFE.png" width="70" alt="Islam Tarek"><br>
+        <sub><b>Islam Tarek</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abdallah-Qusit">
+        <img src="https://github.com/Abdallah-Qusit.png" width="70" alt="Abdallah Qusit"><br>
+        <sub><b>Abdallah Qusit</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # How to contribute?
 
