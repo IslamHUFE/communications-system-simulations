@@ -1,3 +1,8 @@
+import matplotlib
+
+# The hosted environment has no desktop display server.
+matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 import numpy as np
 import streamlit as st
@@ -19,7 +24,6 @@ st.set_page_config(
 st.title("📡 Constellation Diagram Simulator")
 st.caption("Interactive web version of the Python constellation simulation.")
 
-# Keep the original simulator's dark visual language.
 st.markdown(
     """
     <style>
